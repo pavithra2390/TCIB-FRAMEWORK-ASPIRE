@@ -1,0 +1,25 @@
+testCaseId,Account_Type,ProductGroup,Product,Term,Amount,Status,Account,Currency
+TC001,,,,,,,,
+TC_TCIB_Discover_013,,SAVINGS.ACCOUNTS,COND.SAVINGS.ACCOUNT,,,,,
+TC_TCIB_Discover_014,,SAVINGS.ACCOUNTS,SAVINGS.ACCOUNT,,,,,
+TC_TCIB_Discover_015,,SAVINGS.ACCOUNTS,CHILD.ACCOUNT,,,,,
+TC_TCIB_Discover_016,,SAVINGS.ACCOUNTS,SAVINGS.ACCOUNT.FCY,,,,,
+TC_TCIB_Discover_017,,SAVINGS.ACCOUNTS,NOTICE.ACCOUNT,,,,,
+TC_TCIB_Discover_018,,SAVINGS.ACCOUNTS,STAFF.ACCOUNT,,,,,
+TC_TCIB_Discover_019,,DEPOSITS,DEPOSIT.SHORT,3M,1,1,77895,
+TC_TCIB_Discover_020,,DEPOSITS,DEPOSIT.SHORT,6M,1,1,77895,
+TC_TCIB_Discover_021,,DEPOSITS,DEPOSIT.SHORT,9M,1,1,77895,
+TC_TCIB_Discover_022,,DEPOSITS,DEPOSIT.SHORT,12M,1,1,77895,
+TC_TCIB_Discover_023,,DEPOSITS,DEPOSIT.SHORT,3M,1,0,77895,
+TC_TCIB_Discover_024,,DEPOSITS,DEPOSIT.SHORT,6M,1,0,77895,
+TC_TCIB_Discover_025,,DEPOSITS,DEPOSIT.SHORT,9M,1,0,77895,
+TC_TCIB_Discover_026,,DEPOSITS,DEPOSIT.SHORT,12M,1,0,77895,
+TC_TCIB_Discover_004,,Current Accounts,Current Account,,,,,USD
+TC_TCIB_Discover_005,,Current Accounts,Current Account (General Charge),,,,,USD
+TC_TCIB_Discover_006,,Current Accounts,Current Account (Linked Rate),,,,,USD
+TC_TCIB_Discover_007,,Current Accounts,Current Account (Preferred),,,,,USD
+TC_TCIB_Discover_008,,Current Accounts,Current Account (Premium),,,,,USD
+TC_TCIB_Discover_009,,Current Accounts,Current Account (Staff),,,,,USD
+TC_TCIB_Discover_010,,Current Accounts,Current Account (Student),,,,,USD
+TC_TCIB_Discover_011,,Current Accounts,Group Checking Account,,,,,USD
+TC_TCIB_Discover_012,,Current Accounts,Group Subsidiary Account,,,,,USD

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Temenos_TA_Framework by groups]">
+  <test name="GRP-Testing(failed)">
+    <groups>
+      <run>
+        <include name="Testing"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.temenos.testscripts.PaymentTest">
+        <methods>
+          <include name="TC_TCIB_PAYMENT_001" invocation-numbers="0"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- com.temenos.testscripts.PaymentTest -->
+    </classes>
+  </test> <!-- GRP-Testing(failed) -->
+</suite> <!-- Failed suite [Temenos_TA_Framework by groups] -->

@@ -1,0 +1,6 @@
+testCaseId,account_number,account_name,account_type,account_balance,account_currency
+TC_TCIB_AccountPage_001,78239,Current Account,Current Account,,
+TC_TCIB_AccountPage_002,,,Savings Account,,
+TC_TCIB_AccountPage_003,,,Current Account,,
+TC_TCIB_AccountPage_004,,,Mortgage Loan,,
+TC_TCIB_AccountPage_005,79607,,,,

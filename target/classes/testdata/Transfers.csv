@@ -1,0 +1,11 @@
+testCaseId,account_number_from,account_number_to,amount,futureDate,paymentType
+TC001,77895,78301-Current Account-USD,1,,Immediately
+TC002,77895,78301-Current Account-USD,1,25/4/2016,Manual
+TC_TCIB_Transfer_001,77895,,1,,
+TC_TCIB_Transfer_002,77895,78301-Current Account-USD,1,,
+TC_TCIB_Transfer_003,77895,78301-Current Account-USD,1,,
+TC_TCIB_Transfer_004,77895,78301-Current Account-USD,1,,
+TC_TCIB_Transfer_005,77895,78301-Current Account-USD,1,,
+TC_TCIB_Transfer_006,77895,78301-Current Account-USD,1,,
+TC_TCIB_Transfer_007,77895,,1,,
+TC_TCIB_Transfer_008,77895,,1,,

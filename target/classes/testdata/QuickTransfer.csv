@@ -1,0 +1,5 @@
+testCaseId,account_number_from,account_number_to,amount
+TC001,77895-Current Account-USD,78301-Current Account-USD,1
+TC002,77895-Current Account-USD,78301-Current Account-USD,-1
+TC003,C12345,ICICI,1000
+TC004,D12345,HDFC,1000

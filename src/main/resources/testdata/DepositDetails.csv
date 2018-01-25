@@ -1,0 +1,5 @@
+testCaseId,account_type,print_option,Navigation_Tool_Path,Transaction_Description,Credit/Debit,From Date,To date
+TC_TCIB_DEPOSIT_001,Call Deposit,78301-Current Account-USD,1,,,,
+TC_TCIB_DEPOSIT_002,Call Deposit,78301-Current Account-USD,-1,,,,
+TC_TCIB_DEPOSIT_003,Short Term Deposit,ICICI,1000,,,,
+TC_TCIB_DEPOSIT_004,Short Term Deposit,HDFC,1000,,,,

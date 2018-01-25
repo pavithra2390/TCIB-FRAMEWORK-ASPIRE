@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite" verbose="3"
+       thread-count="500">
+    <parameter name="deviceHost" value="localhost"/>
+    <parameter name="devicePort" value="4444"/>
+    <parameter name="browserName" value="chrome_windows"/>
+    <test name="Temenos" thread-count="15" parallel="false">
+        <classes>
+        
+            <class name="com.temenos.testscripts.PaymentTest"/>
+            <class name="com.temenos.testscripts.QuickTransfer"/>
+            <class name="com.temenos.testscripts.SettingTest"/>
+            <class name="com.temenos.testscripts.SideBarTest"/>
+            <class name="com.temenos.testscripts.StandingOrder"/>
+            <class name="com.temenos.testscripts.TransferTest"/>
+             <class name="com.temenos.testscripts.AccountPageTest"/>
+            <class name="com.temenos.testscripts.AllAccounts_RecentTransactionTest"/>
+            <class name="com.temenos.testscripts.AllAccountsTest"/>
+            <class name="com.temenos.testscripts.BaseTest"/>
+            <class name="com.temenos.testscripts.CurrentAccountTest"/>
+            <class name="com.temenos.testscripts.DepositTest"/>
+            <class name="com.temenos.testscripts.DiscoverTest"/>
+            <class name="com.temenos.testscripts.LoginTest"/>
+            <class name="com.temenos.testscripts.ManagePayees"/>
+            <class name="com.temenos.testscripts.MortgageLoan"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,8 @@
+15-Jan-2018 14:13:59:831 INFO  [PoolService-0]  
+15-Jan-2018 14:13:59:837 INFO  [PoolService-0] ****             Verify login functionality.             ***** 
+15-Jan-2018 14:13:59:838 INFO  [PoolService-0]  
+15-Jan-2018 14:14:04:271 INFO  [PoolService-0] Launching the TEMENOS Application 
+15-Jan-2018 14:14:36:911 INFO  [PoolService-0] Logged in successfully using username : ROLFGERLINGTC 
+15-Jan-2018 14:14:42:387 INFO  [PoolService-0] Navigated to Homepage! 
+15-Jan-2018 14:14:42:388 INFO  [PoolService-0] Test Passed. 
+15-Jan-2018 14:14:42:543 INFO  [PoolService-0] ****             -E---N---D-             ***** 

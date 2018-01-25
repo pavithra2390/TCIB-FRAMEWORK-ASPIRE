@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[&emsp;<div class="test-title"> <strong><font size = "3" color = "#000080">Verify login functionality.</font> </strong> </div>&emsp;<div><strong>Steps:</strong></div><!-- Report -->&emsp;]]>
+    </line>
+    <line>
+      <![CDATA[<div class="test-message">&emsp;Launching the TEMENOS Application</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div class="test-message">&emsp;Logged in successfully using username : ROLFGERLINGTC</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div class="test-message">&emsp;Navigated to Homepage!&emsp;<a href=".\ScreenShot\TC_TCIB_LoginTest_001_1.png" target="_blank" >[ScreenShot]</a></div>]]>
+    </line>
+    <line>
+      <![CDATA[<div class="test-result"><br><font color="green"><strong> Test Passed. </strong></font> </div>&emsp;]]>
+    </line>
+  </reporter-output>
+  <suite name="Login Suite" duration-ms="42923" started-at="2018-01-15T06:13:59Z" finished-at="2018-01-15T06:14:42Z">
+    <groups>
+    </groups>
+    <test name="Temenos" duration-ms="42923" started-at="2018-01-15T06:13:59Z" finished-at="2018-01-15T06:14:42Z">
+      <class name="com.temenos.testscripts.LoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.temenos.testscripts.LoginTest@4883b407]" name="beforeSuite" is-config="true" duration-ms="7" started-at="2018-01-15T14:13:59Z" finished-at="2018-01-15T14:13:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="TC_TCIB_LoginTest_001(java.lang.String)[pri:0, instance:com.temenos.testscripts.LoginTest@4883b407]" name="TC_TCIB_LoginTest_001" duration-ms="38317" started-at="2018-01-15T14:14:04Z" description="Verify login functionality." data-provider="TCIB_DP" finished-at="2018-01-15T14:14:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[(Browser: chrome, Hub: DESKTOP-SLV0U55, Node: LOCALHOST), chrome_XP]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[&emsp;<div class="test-title"> <strong><font size = "3" color = "#000080">Verify login functionality.</font> </strong> </div>&emsp;<div><strong>Steps:</strong></div><!-- Report -->&emsp;]]>
+            </line>
+            <line>
+              <![CDATA[<div class="test-message">&emsp;Launching the TEMENOS Application</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div class="test-message">&emsp;Logged in successfully using username : ROLFGERLINGTC</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div class="test-message">&emsp;Navigated to Homepage!&emsp;<a href=".\ScreenShot\TC_TCIB_LoginTest_001_1.png" target="_blank" >[ScreenShot]</a></div>]]>
+            </line>
+            <line>
+              <![CDATA[<div class="test-result"><br><font color="green"><strong> Test Passed. </strong></font> </div>&emsp;]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC_TCIB_LoginTest_001 -->
+      </class> <!-- com.temenos.testscripts.LoginTest -->
+    </test> <!-- Temenos -->
+  </suite> <!-- Login Suite -->
+</testng-results>

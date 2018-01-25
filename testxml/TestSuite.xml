@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="PortFolio Suite" verbose="3"
+	   thread-count="500">
+	<parameter name="deviceHost" value="localhost" />
+	<parameter name="devicePort" value="4444" />
+	<parameter name="browserName" value="chrome_windows" />
+	<test name="Temenos" thread-count="3" parallel="false">
+		<classes>
+			  <class name="com.temenos.testscripts.LoginTest" > </class>
+			 <!-- <class name="com.temenos.testscripts.AccountPageTest" > </class> -->
+		     <class name="com.temenos.testscripts.PaymentTest" > </class> 
+		</classes>
+	</test>
+</suite>

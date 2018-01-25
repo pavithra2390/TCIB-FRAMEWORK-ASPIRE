@@ -1,0 +1,18 @@
+testCaseId,account_type,print_option,Navigation_Tool_Path,Transaction_Description,Credit/Debit,From Date,To date,AccountNumber
+TC_TCIB_CURRENTACCOUNT_001,Savings Account,78301-Current Account-USD,1,,,,,87588
+TC_TCIB_CURRENTACCOUNT_002,Current Account,78301-Current Account-USD,-1,,,,,
+TC_TCIB_CURRENTACCOUNT_003,Savings Account,ICICI,1000,,,,,
+TC_TCIB_CURRENTACCOUNT_004,Mortgage Loan,HDFC,1000,,,,,
+TC_TCIB_CURRENTACCOUNT_005,Current Account,78301-Current Account-USD,1,,,,,
+TC_TCIB_CURRENTACCOUNT_006,Savings Account,78301-Current Account-USD,-1,,,,,
+TC_TCIB_CURRENTACCOUNT_007,Current Account,78301-Current Account-USD,1,,,,,
+TC_TCIB_CURRENTACCOUNT_008,Savings Account,Print,-1,,,,,
+TC_TCIB_CURRENTACCOUNT_009,Savings Account,PDF DOWNLOAD,-1,,,,,
+TC_TCIB_CURRENTACCOUNT_010,Savings Account,CSV DOWNLOAD,-1,,,,,
+TC_TCIB_CURRENTACCOUNT_011,Savings Account,Print,-1,,,,,
+TC_TCIB_CURRENTACCOUNT_012,Savings Account,,div[id^='C5__C2__p1_TBL_'] div.tc-table-wrapper [class*='tc-table-nav-item'],,,,,
+TC_TCIB_CURRENTACCOUNT_013,Current Account,,div[id^='C5__C2__p1_TBL_'] div.tc-table-wrapper [class*='tc-table-nav-item'],,,,,77895
+TC_TCIB_CURRENTACCOUNT_014,Savings Account,,,Account,,,,
+TC_TCIB_CURRENTACCOUNT_015,Current Account,,div[id^='C5__C2__p1_TBL_'] div.tc-table-wrapper [class*='tc-table-nav-item'],,,,,
+TC_TCIB_CURRENTACCOUNT_016,Savings Account,,,,Credit,,1,
+TC_TCIB_CURRENTACCOUNT_017,Savings Account,,,,Credit,,1,
